@@ -726,7 +726,7 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "color": "#239b23"
+              "color": "#1d7a1d"
             }
           },
           "_name": "content5",
@@ -860,7 +860,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#33cc33"
+              "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#1d7a1d"
